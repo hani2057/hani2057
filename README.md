@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=C6BBB7&height=180&text=Hani&fontSize=60&fontAlign=80&&fontAlignY=20&rotate=12&desc=Front%20End%20developer&fontColor=ffffff&descAlign=80&descAlignY=40&stroke=c4b2ab&animation=blink)
+
 ## Introduction
 **Who I am** <br />
 - Front-end Web Developer
@@ -25,6 +27,11 @@
 <img src="https://img.shields.io/badge/GitHub-E8E8E8?style=for-the-badge&logo=GitHub&logoColor=black"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=black"/>
 <br />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=black"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=black"/>
+<br />
+
 
 **Used a little** <br />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"/>
@@ -34,6 +41,7 @@
 <br />
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=black"/>
 <br />
 
 **Used at least once** <br />
