@@ -4,7 +4,7 @@
 **Who I am** <br />
 - Front-end Web Developer
 - Prefer to understand properly before using
-- Try to make clean design and reasonable modularization
+- Try to make clean design and do reasonable modularization
 <br />
 
 **Education** <br />
