@@ -8,12 +8,12 @@
 <br />
 
 **Education** <br />
-- Seoul National University (2011.03 ~ 2017.08) <br />
-- Samsung SW Academy For Youth (8th generation, 2022.07 ~) <br />
+- Seoul National University <br />
+- Samsung SW Academy For Youth (8th generation) <br />
 <br />
 
 ## Tech Stack 
-**Used as the main** <br />
+**Used as main** <br />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"/>
@@ -33,7 +33,7 @@
 <br />
 
 
-**Used a little** <br />
+**Comfortable to use** <br />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vue2-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=black"/>
@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=black"/>
 <br />
 
-**Used at least once** <br />
+**Used a little** <br />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=black"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=black"/>
 
