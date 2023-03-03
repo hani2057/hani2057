@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=C6BBB7&height=180&text=Hani&fontSize=60&fontAlign=80&&fontAlignY=20&rotate=12&desc=Front%20End%20developer&fontColor=ffffff&descAlign=80&descAlignY=40&stroke=c4b2ab&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=slice&color=C6BBB7&height=180&text=Hani&fontSize=60&fontAlign=80&&fontAlignY=20&rotate=12&desc=Front%20End%20Developer&fontColor=ffffff&descAlign=80&descAlignY=40&stroke=c4b2ab&animation=blink)
 
 ## Introduction
 **Who I am** <br />
@@ -9,7 +9,7 @@
 
 **Education** <br />
 - Seoul National University <br />
-- Samsung SW Academy For Youth (8th generation) <br />
+- Samsung SW Academy For Youth <br />
 <br />
 
 ## Tech Stack 
