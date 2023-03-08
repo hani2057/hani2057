@@ -35,6 +35,7 @@
 
 **Comfortable to use** <br />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vue2-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=black"/>
