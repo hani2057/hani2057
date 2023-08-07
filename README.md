@@ -24,6 +24,7 @@
 <img src="https://img.shields.io/badge/Vue2-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=black"/>
 <br />
 <img src="https://img.shields.io/badge/Redux toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=black"/>
 <img src="https://img.shields.io/badge/zustand-FF9E0F?style=for-the-badge&logo=zustand&logoColor=black"/>
 <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=black"/>
 <br />
